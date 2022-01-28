@@ -1,0 +1,15 @@
+#Constants
+a=10            #p
+b=10.254
+c="Hello print"
+print (a)
+print (b)
+print (c)
+z="kwani ni kesho"
+y="si kesho"
+x= 1+2*3-4/5**6 #PPDMAS
+print (x), print (z), print (y),
+print (56%7)
+print (35+34)
+print (350+70)
+print (420/2)
